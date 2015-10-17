@@ -1,1 +1,1 @@
-# CodilityChallenges
+# Codility Challenges Solutions
